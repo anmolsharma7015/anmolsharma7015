@@ -28,40 +28,6 @@ This project contains five tasks corresponding to each module of the course.
 
 ---
 
-# Repository Structure
-
-```
-digital-literacy-project/
-│
-├── README.md
-├── report/
-│   └── Project_Report.pdf
-│
-├── task-1-presentation/
-│   └── infographic.png
-│
-├── task-2-portfolio/
-│   ├── github-profile.png
-│   ├── linkedin-profile.png
-│   └── kaggle-profile.png
-│
-├── task-3-platforms/
-│   ├── hackerrank.png
-│   ├── google-form.png
-│   └── responses.png
-│
-├── task-4-email-etiquette/
-│   ├── email1.txt
-│   ├── email2.txt
-│   └── social-media-checklist.md
-│
-└── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
-```
-
----
-
 # Task 1 — Digital Literacy Infographic
 
 Created a **Digital Literacy Awareness Infographic** using Canva covering:
